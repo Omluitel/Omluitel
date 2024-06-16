@@ -14,7 +14,7 @@ Om</a></h1>
 - 🤝 Available for freelancing opportunities to collaborate and create together
 - 📚 Enthusiastically diving into a learning journey that includes mastering Docker for containerization, harnessing the power of Jenkins for continuous integration, embracing the flexibility of Kubernetes, and more 🌟
 - 🌄 Based in the beautiful landscapes of Australia, finding inspiration in both technology and nature 🌏
-- 📫 How to reach me: Drop me a line at omprakashluitelssm@gmail.com 📧
+- 📫 How to reach me: Drop me a line at ompluitel@gmail.com 📧
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
